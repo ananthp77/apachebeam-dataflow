@@ -8,7 +8,7 @@ The Employee dataset is related to Transaction by 'id'. The objective of this pi
 Employee Table Example
 -----------------------
 
-id|name|company|salary
+id|name|company|salary  
 --|    | ----- | -----
 
 1,John,ABC,15000  
