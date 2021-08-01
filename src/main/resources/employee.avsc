@@ -1,0 +1,35 @@
+{
+   "type":"record",
+   "namespace":"com.example",
+   "name":"Employee",
+   "fields":[
+      {
+         "name":"id",
+         "type":"int"
+      },
+      {
+         "name":"name",
+         "type":[
+            "null",
+            "string"
+         ],
+         "default":null
+      },
+      {
+         "name":"company",
+         "type":[
+            "null",
+            "string"
+         ],
+         "default":null
+      },
+      {
+         "name":"salary",
+         "type":[
+            "null",
+            "double"
+         ],
+         "default":null
+      }
+   ]
+}

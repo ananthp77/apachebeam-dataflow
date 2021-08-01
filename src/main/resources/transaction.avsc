@@ -1,0 +1,19 @@
+{
+   "type":"record",
+   "namespace":"com.example",
+   "name":"Transaction",
+   "fields":[
+      {
+         "name":"id",
+         "type":"int"
+      },
+      {
+         "name":"transaction",
+         "type":[
+            "null",
+            "double"
+         ],
+         "default":null
+      }
+   ]
+}
