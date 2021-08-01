@@ -11,7 +11,7 @@ Employee Table Example
 id  | name | company | salary
 --- | ---- | ------- | ------
 
-1|John|Facebook|15000 
-2|Don|Amazon|250000 
-3|Eric|Google|350000 
-4|Sam|Salesforce|320000 
+1	|John  |Facebook |15000 
+2	|Don   |Amazon	 |250000 
+3	|Eric  |Google   |350000 
+4	|Sam   |Salesforce|320000 
