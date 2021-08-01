@@ -9,7 +9,7 @@ Employee Table Example
 -----------------------
 
 id|name|company|salary  
---|    | ----- | -----
+--|--- | ----- | -----
 
 1,John,ABC,15000  
 2,Don ,XYZ,250000  
